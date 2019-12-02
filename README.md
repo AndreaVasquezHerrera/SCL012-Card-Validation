@@ -17,7 +17,6 @@
 * [Investigacion y Desarrollo](#Investigacion-y-Desarrollo)
 * [Prototipo de alta fidelidad](#Prototipo-de-alta-fidelidad)
 * [Testeo y usabilidad](#Testeo-y-usabilidad)
-* [Test de usabilidad](#Test-de-usabilidad)
 * [Conclusiones y posibles soluciones](#Conclusiones-y-posibles-soluciones)
 
 
@@ -203,15 +202,21 @@ Las palabras más importantes muestran un mayor impacto, por lo que los usuarios
 ## Fuentes
 
 
+Las fuentes (tipografías), son uno de los pilares más importantes del diseño web. La elección de una tipografía adecuada, su tamaño, color, espacio entre letras, interlineado y otras características pueden cambiar, de forma consciente o inconsciente, la forma en la que una persona interpreta o accede a los contenidos de una página web.
+Para la tipografia elegi desde google fonts de acuerdo a los objetivos y a la imagen de la marca.
 
 
 
+'Bebas Neue', cursive: Para Nombre de la Marca. 
+
+'Montserrat', sans-serif: Para los nombres del menu
+
+'Open Sans', sans-serif y 'Roboto', sans-serif para textos , por su mayor legilibilidad.
 
 
+![fuentes](https://i.ibb.co/Gvtg1tz/Screenshot-from-2019-12-02-13-53-47-1.png)
 
-
-
-
+Para conocer las fuentes elegidas, puedes revisar el siguiente enlace: [aquí](https://fonts.google.com/selection?selection.family=Bebas+Neue|Montserrat|Open+Sans|Roboto)
 
 
 
@@ -364,7 +369,7 @@ Para ver el video del ultimo usuario probando el prototipo . Ver en este link [a
 ## Conclusiones y posibles Soluciones
 
 
-![prototipo](https://i.ibb.co/rvg8yqp/20191128-221719.jpg)
+![prototipo](https://i.ibb.co/5YxG8q8/inicio.jpg)
 
 Uno de los cambios que se realizaron en la aplicacion final , fue adaptar el diseño un poco mas como pagina web porque era el requerimiento de esta tarea.
 Esto por que el uso multiples pantallas queda mejor en un diseño de aplicacion para celular.
