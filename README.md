@@ -190,7 +190,22 @@ La presencia de módulos tiende a unificar, por esto en el prototipo se repetira
 Alinear los elementos es una operación imprescindible para conseguir una composición ordenada y lógica, con ello se crean unidades visuales definidas y relaciones entre elementos.
 A excepcion del nombre y el menu del header, todo esta alineado al centro,porque se esta trabajando con datos que se repiten y estan cuadriculados y eso ayuda a que se vea ordenado y simetrico. 
 Se testeara el prototipo, si tiene buena aceptacion se dejara asi, 
-sino, se intentaran algunos cambios en la alineacion despues del menu, en la seccion de ingreso de datos y pago ( hacia el izquierdo, porque al derecho puede ocasionar algo de tension visual , en cambio el orden hacia el lado izquierdo , suele sentirse mas comodo porque nuestra vista esta acostumbrada a tratar con ello).
+sino, se intentaran algunos cambios en la alineacion despues del menu, en la seccion de ingreso de datos y pago (derecho, porque al izquierdo puede ocasionar algo de tension visual , en cambio el orden hacia el lado derecho, suele sentirse mas comodo porque nuestra vista esta acostumbrada a tratar con ello).
+
+
+
+
+### Proximidad
+
+
+Todos los elementos similares deben estar próximos. Esto es importante para estructurar la información. En el menu, los Giftboxs están cerca unos de otros, para visualmente formar una unidad en lugar de varios elementos separados.Esto permite que el usuario tenga conciencia de que existe una estructura definida. Esto se repite en el ingreso de datos , para que se entienda que es una seccion , una unidad.
+
+
+
+
+
+
+
 
 
 
