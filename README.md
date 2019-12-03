@@ -1,3 +1,7 @@
+
+# GiFTBOX
+
+
 ![inicio](https://i.ibb.co/DQgQwhV/Screenshot-20191120-235605-Chrome-mh1574306850035.jpg)
 
  
@@ -156,7 +160,7 @@ Para usarlos en figma fueron trasladados a codigo hex, con la intencion de si ti
 
 Si quieres revisar la paleta de colores puedes seguir este enlace : [aquí](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=c2e8ce&secondary.color=9f116a)
 
-![sketch](https://i.ibb.co/jkhQ0fS/Screenshot-from-2019-11-30-00-06-04.png)
+![Colores](https://i.ibb.co/jkhQ0fS/Screenshot-from-2019-11-30-00-06-04.png)
 se utilizo el color primario principalemente para los fondos y el secundario para los detalles.
 
 
